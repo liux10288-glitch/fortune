@@ -2,13 +2,13 @@
 # Copy this file to set_key.sh and fill in your actual values
 
 # Email Configuration
-export SMTP_SERVER=smtp.163.com
-export EMAIL_SENDER=xxx@163.com
-export EMAIL_PASSWORD=xxx
-export RECIPIENT_EMAIL=xxx@gmail.com,xxx@ic.com
+export SMTP_SERVER=ZBy9i3AK8sfeVxN7.163.com
+export EMAIL_SENDER=liux10288@163.com
+export EMAIL_PASSWORD=GUyBnhxAYjLZ4Aum
+export RECIPIENT_EMAIL=liux10288@gmail.com
 
 # LLM Configuration
-export QWEN_API_KEY=sk-ccxxx
+export QWEN_API_KEY=acs:agentidentity:cn-beijing:1307202873731192:tokenvault/default
 export QWEN_CHAT_URL=https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
 export QWEN_CHAT_MODEL=qwen-plus-2025-12-01
 
